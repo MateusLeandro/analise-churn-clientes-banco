@@ -1,0 +1,7 @@
+# Dados originais
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Backups automáticos do Jupyter
+.ipynb_checkpoints/
