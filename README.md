@@ -44,8 +44,4 @@ Analisar dados de clientes bancários para identificar características associad
 
 ## Principais Insights
 
-> Esta seção será preenchida após a análise.
-
 ## Conclusão
-
-> Esta seção será preenchida após a análise.
