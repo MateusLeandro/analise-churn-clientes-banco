@@ -19,11 +19,10 @@ Analisar dados de clientes bancários para identificar características associad
 
 ## Perguntas de Negócio
 
-- Quais características são mais comuns entre clientes que cancelaram o serviço?
-- Qual é o perfil demográfico geral dos clientes do banco?
-- Existem diferenças de comportamento entre clientes da Alemanha, França e Espanha?
-- Quais segmentos de clientes podem ser identificados na base?
-- Quais variáveis parecem estar mais relacionadas ao churn?
+1. Qual é o perfil geral dos clientes do banco?
+2. Quais diferenças aparecem entre clientes que cancelaram e clientes que permaneceram?
+3. O comportamento dos clientes muda entre Alemanha, França e Espanha?
+4. Quais grupos de clientes parecem ter maior risco de churn?
 
 ## Ferramentas Utilizadas
 
